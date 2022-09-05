@@ -17,11 +17,11 @@ function App() {
         <Banner/>
         <Features/>
         <About/>
-        {/* <ChooseUs/>
+        <ChooseUs/>
         <Prices/>
         <Testimonial/>
         <Newsletter/>
-        <Footer/> */}
+        <Footer/>
     </div>
   );
 }

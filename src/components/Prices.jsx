@@ -4,7 +4,7 @@ const Prices = () => {
   return (
     <>
         {/* Strat Pricing Area */}
-        <div class="agency-pricing-area bg-color-f9f5f4 pt-100 pb-70">
+        <div class="agency-pricing-area bg-color-f9f5f4 pt-100 pb-70" id='prices'>
             <div class="container">
                 <div class="agency-section-title ">
                     <span>Our Pricing</span>

@@ -19,10 +19,8 @@ const Header = () => {
                         <li className="nav-item"><a className="nav-link" href="#home">Home</a></li>
                         <li className="nav-item"><a className="nav-link" href="#features">Features</a></li>
                         <li className="nav-item"><a className="nav-link" href="#about">About Us</a></li>
-                        <li className="nav-item"><a className="nav-link" href="#services">Services</a></li>
-                        <li className="nav-item"><a className="nav-link" href="#portfolio">Portfolio</a></li>
+                        <li className="nav-item"><a className="nav-link" href="#prices">Pricing</a></li>
                         <li className="nav-item"><a className="nav-link" href="#testimonial">Testimonials</a></li>
-                        <li className="nav-item"><a className="nav-link" href="#blog">Blog</a></li>
                     </ul>
                     <div className="others-options d-flex align-items-center style3">
                         <div className="option-item">
