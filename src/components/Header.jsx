@@ -1,14 +1,33 @@
-import React from 'react'
+import React,{useState,useEffect} from 'react'
 
 const Header = () => {
+
+    const [stickyClass, setStickyClass] = useState(false);
+
+    useEffect(() => {
+        window.addEventListener('scroll', stickNavbar);
+    
+        return () => {
+          window.removeEventListener('scroll', stickNavbar);
+        };
+    }, []);
+
+    const stickNavbar = () => {
+        if (window !== undefined) {
+            let windowHeight = window.scrollY;
+            windowHeight > 120 ? setStickyClass(true) : setStickyClass(false);
+        }
+    };
+
   return (
     <>
         {/* Start Navbar Area */}
-        <nav className="navbar navbar-expand-lg navbar-light bg-light nav-style5">
+        <nav className={`navbar navbar-expand-lg navbar-light bg-light nav-style5 ${stickyClass ? 'is-sticky' : ''}`}>
             <div className="container-fluid">
                 <a className="navbar-brand" href="index-3.html">
-                    <img src="assets/images/logo/logo-4.png" className="main-logo" alt="logo"/>
-                    <img src="assets/images/logo/logo2.png" className="white-logo" alt="logo"/>
+                    {/* <img src="assets/images/logo/logo-4.png" className="main-logo" alt="logo"/>
+                    <img src="assets/images/logo/logo2.png" className="white-logo" alt="logo"/> */}
+                    <h2 className='mb-0'>Anonymous Chat</h2>
                 </a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
