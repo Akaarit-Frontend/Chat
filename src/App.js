@@ -1,5 +1,5 @@
 import './App.css';
-import './Responsive.css';
+// import './Responsive.css';
 import Banner from './components/Banner/Banner';
 import Header from './components/Header';
 import About from './components/About';
