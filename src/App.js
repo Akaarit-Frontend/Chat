@@ -19,9 +19,9 @@ function App() {
         <About/>
         <ChooseUs/>
         <Prices/>
-        {/* <Testimonial/>
+        <Testimonial/>
         <Newsletter/>
-        <Footer/> */}
+        <Footer/>
     </div>
   );
 }
