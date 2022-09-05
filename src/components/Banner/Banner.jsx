@@ -59,7 +59,7 @@ const Banner = () => {
                         </div>
                         <div className="col-lg-8">
                             <OwlCarousel className='trasted-slider owl-carousel owl-theme' {...settings}>
-                            <div className="trasted-logo">
+                                <div className="trasted-logo">
                                     <img src="./images/partner/partner9.png" alt="partner"/>
                                 </div>
                                 <div className="trasted-logo">
