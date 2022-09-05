@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import {Link} from 'react-router-dom'
 
 function Footer() {
   return (
@@ -19,16 +20,16 @@ function Footer() {
                             <div className="social-links">
                                 <ul>
                                     <li>
-                                        <a href="https://www.facebook.com" target="_blank"><i className="fa-brands fa-facebook-f"></i></a>
+                                        <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer"><i className="fa-brands fa-facebook-f"></i></a>
                                     </li>
                                     <li>
-                                        <a href="https://www.twitter.com" target="_blank"><i className="fa-brands fa-twitter"></i></a>
+                                        <a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer"><i className="fa-brands fa-twitter"></i></a>
                                     </li>
                                     <li>
-                                        <a href="https://google.com" target="_blank"><i className="fa-brands fa-google-plus-g"></i></a>
+                                        <a href="https://google.com" target="_blank" rel="noopener noreferrer"><i className="fa-brands fa-google-plus-g"></i></a>
                                     </li>
                                     <li>
-                                        <a href="https://linkedin.com/?lang=en" target="_blank"><i className="fa-brands fa-linkedin-in"></i></a>
+                                        <a href="https://linkedin.com/?lang=en" target="_blank" rel="noopener noreferrer"><i className="fa-brands fa-linkedin-in"></i></a>
                                     </li>
                                 </ul>
                             </div>
@@ -39,11 +40,11 @@ function Footer() {
                             <h3>Company</h3>
                             <div className="link-list">
                                 <ul>
-                                    <li><a href="#"><i className="flaticon-next"></i>About Us</a></li>
-                                    <li><a href="#"><i className="flaticon-next"></i>Contact Us</a></li>
-                                    <li><a href="#"><i className="flaticon-next"></i>Core Services</a></li>
-                                    <li><a href="#"><i className="flaticon-next"></i>Our Team</a></li>
-                                    <li><a href="#"><i className="flaticon-next"></i>Pricing Plan</a></li>
+                                    <li><Link to="#"><i className="flaticon-next"></i>About Us</Link></li>
+                                    <li><Link to="#"><i className="flaticon-next"></i>Contact Us</Link></li>
+                                    <li><Link to="#"><i className="flaticon-next"></i>Core Services</Link></li>
+                                    <li><Link to="#"><i className="flaticon-next"></i>Our Team</Link></li>
+                                    <li><Link to="#"><i className="flaticon-next"></i>Pricing Plan</Link></li>
                                 </ul>
                             </div>
                         </div>
@@ -53,11 +54,11 @@ function Footer() {
                             <h3>Useful Links</h3>
                             <div className="link-list">
                                 <ul>
-                                    <li><a href="#"><i className="flaticon-next"></i>Contact Us</a></li>
-                                    <li><a href="#"><i className="flaticon-next"></i>Privacy Policy</a></li>
-                                    <li><a href="#"><i className="flaticon-next"></i>App Download</a></li>
-                                    <li><a href="#"><i className="flaticon-next"></i>How It Works</a></li>
-                                    <li><a href="#"><i className="flaticon-next"></i>Terms & Conditions</a></li>
+                                    <li><Link to="#"><i className="flaticon-next"></i>Contact Us</Link></li>
+                                    <li><Link to="#"><i className="flaticon-next"></i>Privacy Policy</Link></li>
+                                    <li><Link to="#"><i className="flaticon-next"></i>App Download</Link></li>
+                                    <li><Link to="#"><i className="flaticon-next"></i>How It Works</Link></li>
+                                    <li><Link to="#"><i className="flaticon-next"></i>Terms & Conditions</Link></li>
                                 </ul>
                             </div>
                         </div>

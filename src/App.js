@@ -9,10 +9,12 @@ import Prices from './components/Prices';
 import Testimonial from './components/Testimonial';
 import Newsletter from './components/Newsletter';
 import Footer from './components/Footer';
+import {BrowserRouter as Router} from "react-router-dom";
 
 function App() {
   return (
     <div className="App">
+        <Router>
         <Header/>
         <Banner/>
         <Features/>
@@ -22,6 +24,7 @@ function App() {
         <Testimonial/>
         <Newsletter/>
         <Footer/>
+        </Router>
     </div>
   );
 }

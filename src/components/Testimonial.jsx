@@ -12,8 +12,8 @@ function Testimonial() {
         smartSpeed: 1000,
         autoplayHoverPause:true,
         navText: [
-            '<i className="fa-regular fa-arrow-left"></i>',
-            '<i className="fa-regular fa-arrow-right"></i>'
+            '<i class="fa-regular fa-arrow-left"></i>',
+            '<i class="fa-regular fa-arrow-right"></i>'
         ],
         responsive:{
             0:{
