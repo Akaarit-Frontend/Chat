@@ -10,11 +10,14 @@ import Testimonial from './components/Testimonial';
 import Newsletter from './components/Newsletter';
 import Footer from './components/Footer';
 import {BrowserRouter as Router} from "react-router-dom";
+// import Preloder from './components/Preloder';
+// import { useEffect } from 'react';
 
 function App() {
   return (
     <div className="App">
-        <Router>
+      <Router>
+        {/* <Preloder/> */}
         <Header/>
         <Banner/>
         <Features/>
@@ -24,7 +27,7 @@ function App() {
         <Testimonial/>
         <Newsletter/>
         <Footer/>
-        </Router>
+      </Router>
     </div>
   );
 }

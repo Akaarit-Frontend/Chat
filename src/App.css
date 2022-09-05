@@ -4463,7 +4463,8 @@ Go To Top Style
 .agency-banner-area::before {
   position: absolute;
   content: '';
-  background-color: #f9f5f4;
+  /* background-color: #f9f5f4; */
+  background-color: #FFF5FF;
   height: 80px;
   width: 100%;
   left: 0;

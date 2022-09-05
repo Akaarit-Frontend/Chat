@@ -67,7 +67,7 @@ function Footer() {
                         <div className="agency-subscribe">
                             <h3>Subscribe Newsletter</h3>
                             <form className="newsletter-form" data-toggle="validator">
-                                <input type="email" className="form-control" placeholder="Your Email" name="EMAIL" required autocomplete="off"/>
+                                <input type="email" className="form-control" placeholder="Your Email" name="EMAIL" required autoComplete="off"/>
                     
                                 <button className="agency-default-btn btn" type="submit">
                                     Join Us!
