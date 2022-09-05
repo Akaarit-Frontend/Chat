@@ -4,6 +4,7 @@ import Banner from './components/Banner/Banner';
 import Header from './components/Header';
 import About from './components/About';
 import Features from './components/Features';
+import ChooseUs from './components/ChooseUs';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <Banner/>
         <Features/>
         <About/>
+        <ChooseUs/>
     </div>
   );
 }
