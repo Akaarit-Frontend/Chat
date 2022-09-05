@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/chat/static/css/main.f29a1339.css",
+    "main.js": "/chat/static/js/main.86a53f08.js",
+    "static/media/banner-bg-8.png": "/chat/static/media/banner-bg-8.f29729657564287fd989.png",
+    "index.html": "/chat/index.html",
+    "main.f29a1339.css.map": "/chat/static/css/main.f29a1339.css.map",
+    "main.86a53f08.js.map": "/chat/static/js/main.86a53f08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f29a1339.css",
+    "static/js/main.86a53f08.js"
+  ]
+}
