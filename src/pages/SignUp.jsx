@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 
 const Signup = () => {
     return (
@@ -74,7 +75,8 @@ const Signup = () => {
                                                     conditions</a> and <a href="privacy-policy.html">Privacy policy</a>
                                             </label>
                                         </div>
-                                        <a href="booking-confirmation.html" className="agency-default-btn btn mt-3">Sign up</a>
+                                        <Link to="/" className="agency-default-btn btn my-3">Sign up</Link>
+                                        <p>Already Sign Up? <Link to="/sign-in" style={{color:'#f4732a'}}>Sign In</Link></p>
                                     </div>
                                 </div>
                             </div>
