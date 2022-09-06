@@ -1,31 +1,19 @@
 import './App.css';
 import './Responsive.css';
-import Banner from './components/Banner/Banner';
 import Header from './components/Header';
-import About from './components/About';
-import Features from './components/Features';
-import ChooseUs from './components/ChooseUs';
-import Prices from './components/Prices';
-import Testimonial from './components/Testimonial';
-import Newsletter from './components/Newsletter';
 import Footer from './components/Footer';
 import {BrowserRouter as Router} from "react-router-dom";
+import Routes from './router/Router';
 // import Preloder from './components/Preloder';
 // import { useEffect } from 'react';
 
 function App() {
   return (
     <div className="App">
+      {/* <Preloder/> */}
       <Router>
-        {/* <Preloder/> */}
         <Header/>
-        <Banner/>
-        <Features/>
-        <About/>
-        <ChooseUs/>
-        <Prices/>
-        <Testimonial/>
-        <Newsletter/>
+        <Routes/>
         <Footer/>
       </Router>
     </div>

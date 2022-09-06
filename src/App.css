@@ -12528,3 +12528,34 @@ Go To Top Style
   margin-bottom: 0;
 }
 /*# sourceMappingURL=style.css.map */
+
+/* Sign In/Up */
+
+.sign_form_box {
+  background: #FFFFFF;
+  box-shadow: -4px -5px 14px rgb(0 0 0 / 8%), 5px 8px 16px rgb(0 0 0 / 8%);
+  border-radius: 10px;
+  padding: 20px 20px 20px 20px;
+  margin-top: 16px;
+}
+
+.sign_form_box .form-group {
+  margin-bottom: 30px;
+}
+
+.sign_form_box .form-control {
+  height: 55px;
+  border: 2px dashed #dddddd75;
+  padding: 10px 22px;
+  font-size: 16px;
+}
+
+.sign_form_box .form-control:focus {
+  border: 2px dashed #0b1460;
+  outline: none;
+  box-shadow: none;
+}
+
+.form-check-label a{
+  color: #f4732a;
+}

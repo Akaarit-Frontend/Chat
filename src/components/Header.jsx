@@ -1,4 +1,5 @@
-import React,{useState,useEffect} from 'react'
+import React,{useState,useEffect} from 'react';
+import { Link } from 'react-router-dom';
 
 const Header = () => {
 
@@ -35,15 +36,15 @@ const Header = () => {
 
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav ms-auto">
-                        <li className="nav-item"><a className="nav-link" href="#home">Home</a></li>
+                        <li className="nav-item"><Link className="nav-link" to="/">Home</Link></li>
                         <li className="nav-item"><a className="nav-link" href="#features">Features</a></li>
                         <li className="nav-item"><a className="nav-link" href="#about">About Us</a></li>
-                        <li className="nav-item"><a className="nav-link" href="#prices">Pricing</a></li>
+                        <li className="nav-item"><Link className="nav-link" to="/pricing">Pricing</Link></li>
                         <li className="nav-item"><a className="nav-link" href="#testimonial">Testimonials</a></li>
                     </ul>
                     <div className="others-options d-flex align-items-center style3">
                         <div className="option-item">
-                            <a href="#join">Sign In/Up <i className="flaticon-right-arrow-3"></i></a>
+                            <Link to="/sign-up">Sign In/Up <i className="flaticon-right-arrow-3"></i></Link>
                         </div>
                     </div>
                 </div>
