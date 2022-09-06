@@ -10,11 +10,11 @@ function Footer() {
                 <div className="row">
                     <div className="col-lg-4 col-sm-6">
                         <div className="logo-area style2">
-                            <a href="index-3.html">
+                            <Link to="/">
                                 {/* <img src="./images/logo/logo-4.png" className="logo-1" alt="Logo"/>
                                 <img src="./images/logo/logo-6.png" className="logo-2" alt="Logo"/> */}
                                 <h2>Anonymous Chat</h2>
-                            </a>
+                            </Link>
                             <p>Duis cursus, mi quis viverra ornare, eros dolor interdum nulla utimp erdiet commodo diam libero vitae nibh et jus cursus id rutrum lore imperdiet ut sem vitae risus tristique posuere </p>
 
                             <div className="social-links">
