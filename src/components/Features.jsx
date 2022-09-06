@@ -16,28 +16,28 @@ const Features = () => {
                     <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
                         <div className="agency-single-features-card">
                             <div className="icon">
-                                <i className="flaticon-vector"></i>
+                                <i className="flaticon-bubble-chat"></i>
                             </div>
-                            <h3>Web Design</h3>
-                            <p>Lorem ipsum dolor sit amet, ectetur do pis cing elit. Susp endisse varius enim varius enim eros elementum tristique.</p>
+                            <h3>Anonymus Chat</h3>
+                            <p>Anonymous chat has the features you need.Whether you choose to text chat or participate in an anonymous video chat.</p>
                         </div>
                     </div>
                     <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
                         <div className="agency-single-features-card">
                             <div className="icon">
-                                <i className="flaticon-strategy"></i>
+                                <i className="flaticon-corporation"></i>
                             </div>
-                            <h3>Strategy & Research</h3>
-                            <p>Lorem ipsum dolor sit amet, ectetur do pis cing elit. Susp endisse varius enim varius enim eros elementum tristique.</p>
+                            <h3>Company Development</h3>
+                            <p>In simplest terms, business development can be summarized as the ideas, initiatives, and activities that help make a business better.</p>
                         </div>
                     </div>
                     <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600">
                         <div className="agency-single-features-card">
                             <div className="icon">
-                                <i className="flaticon-megaphone"></i>
+                                <i className="flaticon-job-satisfaction"></i>
                             </div>
-                            <h3>SEO & Marketing</h3>
-                            <p>Lorem ipsum dolor sit amet, ectetur do pis cing elit. Susp endisse varius enim varius enim eros elementum tristique.</p>
+                            <h3>Employee Satisfaction</h3>
+                            <p>Employee satisfaction is a broad term used by the HR industry to describe how satisfied employees are with elements like their jobs.</p>
                         </div>
                     </div>
                 </div>
@@ -50,4 +50,4 @@ const Features = () => {
   )
 }
 
-export default Features
+export default Features;

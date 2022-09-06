@@ -4571,8 +4571,8 @@ Go To Top Style
 }
 
 .agency-single-features-card:hover .icon {
-  -webkit-transform: rotate(30deg);
-          transform: rotate(30deg);
+  -webkit-transform: rotate(2deg);
+          transform: rotate(2deg);
   background-color: #f4732a;
   color: #ffffff;
 }

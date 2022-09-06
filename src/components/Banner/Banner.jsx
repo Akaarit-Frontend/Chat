@@ -38,7 +38,7 @@ const Banner = () => {
                         <div className="agency-banner-content">
                             <span>Best Anonymous Service</span>
                             <h1>Dedicated To Reveal Ideas To Your Life</h1>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ut labore et dolore magna aliqua. Ut enim ad minim veniamquis.</p>
+                            <p>You can be whoever you want to be. If you are shy and reserved, our free features can help you come out of your shell.</p>
                             <a href="#join" className="agency-default-btn btn mr-20">Get A Quote <i className="flaticon-right-arrow-3"></i></a>
                             <a href="#join" className="agency-default-btn style2 btn">Learn More <i className="flaticon-right-arrow-3"></i></a>
                         </div>
