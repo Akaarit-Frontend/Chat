@@ -36,8 +36,8 @@ const Banner = () => {
                 <div className="row">
                     <div className="col-lg-5" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
                         <div className="agency-banner-content">
-                            <span>Best Creative Agency</span>
-                            <h1>Dedicated To Bring Our Ideas To Your Life</h1>
+                            <span>Best Anonymous Service</span>
+                            <h1>Dedicated To Reveal Our Ideas To Your Life</h1>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ut labore et dolore magna aliqua. Ut enim ad minim veniamquis.</p>
                             <a href="#join" className="agency-default-btn btn mr-20">Get A Quote <i className="flaticon-right-arrow-3"></i></a>
                             <a href="#join" className="agency-default-btn style2 btn">Learn More <i className="flaticon-right-arrow-3"></i></a>

@@ -37,7 +37,7 @@ const Header = () => {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav ms-auto">
                         <li className="nav-item"><Link className="nav-link" to="/">Home</Link></li>
-                        <li className="nav-item"><a className="nav-link" href="#about">About Us</a></li>
+                        <li className="nav-item"><a className="nav-link" href="/#about">About Us</a></li>
                         <li className="nav-item"><Link className="nav-link" to="/pricing">Pricing</Link></li>
                     </ul>
                     <div className="others-options d-flex align-items-center style3">

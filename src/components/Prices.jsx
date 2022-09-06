@@ -37,9 +37,9 @@ const Prices = () => {
                                                             <ul>
                                                                 <li><i className="flaticon-check"></i> Powerful Customization</li>
                                                                 <li><i className="flaticon-check"></i>Individual Solutions</li>
-                                                                <li><i className="flaticon-cancel"></i><del>Information Technology</del></li>
-                                                                <li><i className="flaticon-cancel"></i><del>Unlimited Domains</del></li>
-                                                                <li><i className="flaticon-cancel"></i><del>24/7 Support</del></li>
+                                                                <li><i className="flaticon-cancel"></i><del>IT Support</del></li>
+                                                                <li><i className="flaticon-cancel"></i><del>Message Encryption</del></li>
+                                                                <li><i className="flaticon-cancel"></i>500 Messages Sent</li>
                                                             </ul>
                                                         </div>
                                                         <a href="#" className="agency-default-btn style4 btn">Choose plan <i className="flaticon-right-arrow-3"></i></a>
@@ -56,9 +56,9 @@ const Prices = () => {
                                                             <ul>
                                                                 <li><i className="flaticon-check"></i> Powerful Customization</li>
                                                                 <li><i className="flaticon-check"></i>Individual Solutions</li>
-                                                                <li><i className="flaticon-check"></i>Information Technology</li>
-                                                                <li><i className="flaticon-cancel"></i><del>Unlimited Domains</del></li>
-                                                                <li><i className="flaticon-cancel"></i><del>24/7 Support</del></li>
+                                                                <li><i className="flaticon-check"></i>IT Support</li>
+                                                                <li><i className="flaticon-cancel"></i><del>Message Encryption</del></li>
+                                                                <li><i className="flaticon-cancel"></i>2500 Messages Sent</li>
                                                             </ul>
                                                         </div>
                                                         <a href="#" className="agency-default-btn style4 btn">Choose plan <i className="flaticon-right-arrow-3"></i></a>
@@ -75,9 +75,9 @@ const Prices = () => {
                                                             <ul>
                                                                 <li><i className="flaticon-check"></i> Powerful Customization</li>
                                                                 <li><i className="flaticon-check"></i>Individual Solutions</li>
-                                                                <li><i className="flaticon-check"></i>Information Technology</li>
-                                                                <li><i className="flaticon-check"></i>Unlimited Domains</li>
-                                                                <li><i className="flaticon-check"></i>24/7 Support</li>
+                                                                <li><i className="flaticon-check"></i>IT Support</li>
+                                                                <li><i className="flaticon-check"></i>Message Encryption</li>
+                                                                <li><i className="flaticon-check"></i>5000 Messages Sent</li>
                                                             </ul>
                                                         </div>
                                                         <a href="#" className="agency-default-btn style4 btn">Choose plan <i className="flaticon-right-arrow-3"></i></a>
@@ -95,9 +95,9 @@ const Prices = () => {
                                                             <ul>
                                                                 <li><i className="flaticon-check"></i> Powerful Customization</li>
                                                                 <li><i className="flaticon-check"></i>Individual Solutions</li>
-                                                                <li><i className="flaticon-check"></i>Information Technology</li>
-                                                                <li><i className="flaticon-check"></i>Unlimited Domains</li>
-                                                                <li><i className="flaticon-cancel"></i><del>24/7 Support</del></li>
+                                                                <li><i className="flaticon-check"></i>IT Support</li>
+                                                                <li><i className="flaticon-check"></i>Message Encryption</li>
+                                                                <li><i className="flaticon-cancel"></i>Unlimited Messages Sent</li>
                                                             </ul>
                                                         </div>
                                                         <a href="#" className="agency-default-btn style4 btn">Choose plan <i className="flaticon-right-arrow-3"></i></a>
@@ -118,9 +118,9 @@ const Prices = () => {
                                                             <ul>
                                                                 <li><i className="flaticon-check"></i> Powerful Customization</li>
                                                                 <li><i className="flaticon-check"></i>Individual Solutions</li>
-                                                                <li><i className="flaticon-cancel"></i><del>Information Technology</del></li>
-                                                                <li><i className="flaticon-cancel"></i><del>Unlimited Domains</del></li>
-                                                                <li><i className="flaticon-cancel"></i><del>24/7 Support</del></li>
+                                                                <li><i className="flaticon-cancel"></i><del>IT Support</del></li>
+                                                                <li><i className="flaticon-cancel"></i><del>Message Encryption</del></li>
+                                                                <li><i className="flaticon-cancel"></i>500 Messages Sent</li>
                                                             </ul>
                                                         </div>
                                                         <a href="#" className="agency-default-btn style4 btn">Choose plan <i className="flaticon-right-arrow-3"></i></a>
@@ -138,8 +138,8 @@ const Prices = () => {
                                                                 <li><i className="flaticon-check"></i> Powerful Customization</li>
                                                                 <li><i className="flaticon-check"></i>Individual Solutions</li>
                                                                 <li><i className="flaticon-check"></i>Information Technology</li>
-                                                                <li><i className="flaticon-cancel"></i><del>Unlimited Domains</del></li>
-                                                                <li><i className="flaticon-cancel"></i><del>24/7 Support</del></li>
+                                                                <li><i className="flaticon-cancel"></i><del>Message Encryption</del></li>
+                                                                <li><i className="flaticon-cancel"></i>500 Messages Sent</li>
                                                             </ul>
                                                         </div>
                                                         <a href="#" className="agency-default-btn style4 btn">Choose plan <i className="flaticon-right-arrow-3"></i></a>
@@ -157,7 +157,7 @@ const Prices = () => {
                                                                 <li><i className="flaticon-check"></i> Powerful Customization</li>
                                                                 <li><i className="flaticon-check"></i>Individual Solutions</li>
                                                                 <li><i className="flaticon-check"></i>Information Technology</li>
-                                                                <li><i className="flaticon-check"></i>Unlimited Domains</li>
+                                                                <li><i className="flaticon-check"></i>Message Encryption</li>
                                                                 <li><i className="flaticon-check"></i>24/7 Support</li>
                                                             </ul>
                                                         </div>
@@ -177,8 +177,8 @@ const Prices = () => {
                                                                 <li><i className="flaticon-check"></i> Powerful Customization</li>
                                                                 <li><i className="flaticon-check"></i>Individual Solutions</li>
                                                                 <li><i className="flaticon-check"></i>Information Technology</li>
-                                                                <li><i className="flaticon-check"></i>Unlimited Domains</li>
-                                                                <li><i className="flaticon-cancel"></i><del>24/7 Support</del></li>
+                                                                <li><i className="flaticon-check"></i>Message Encryption</li>
+                                                                <li><i className="flaticon-cancel"></i>Unlimited Messages Sent</li>
                                                             </ul>
                                                         </div>
                                                         <a href="#" className="agency-default-btn style4 btn">Choose plan <i className="flaticon-right-arrow-3"></i></a>

@@ -55,7 +55,7 @@ function Testimonial() {
                                             <li><i className="flaticon-star"></i></li>
                                         </ul>
                                     </div>
-                                    <p>Lorem ipsum dolor sit amet consec tetur adipiscing elit et fames maecen amet est scelerisque lectus tortor sit</p>
+                                    <p>This website is good but this annoying thing has been coming up recently saying error connecting to server every time I use it</p>
                                     <h3>John Carter</h3>
                                     <span>CEO at Company</span>
                                 </div>
@@ -80,7 +80,7 @@ function Testimonial() {
                                             <li><i className="flaticon-star"></i></li>
                                         </ul>
                                     </div>
-                                    <p>Lorem ipsum dolor sit amet consec tetur adipiscing elit et fames maecen amet est scelerisque lectus tortor sit</p>
+                                    <p>Thank u for this app you can talk to strangers and you are the best company in thwe world just keep it up</p>
                                     <h3>Alexander Hills</h3>
                                     <span>CEO Twitter</span>
                                 </div>
@@ -105,7 +105,7 @@ function Testimonial() {
                                             <li><i className="flaticon-star"></i></li>
                                         </ul>
                                     </div>
-                                    <p>Lorem ipsum dolor sit amet consec tetur adipiscing elit et fames maecen amet est scelerisque lectus tortor sit</p>
+                                    <p>This website is good but this annoying thing has been coming up recently saying error connecting to server every time I use it</p>
                                     <h3>John Carter</h3>
                                     <span>CEO at Company</span>
                                 </div>

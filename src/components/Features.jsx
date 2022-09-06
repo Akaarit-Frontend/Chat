@@ -20,7 +20,6 @@ const Features = () => {
                             </div>
                             <h3>Web Design</h3>
                             <p>Lorem ipsum dolor sit amet, ectetur do pis cing elit. Susp endisse varius enim varius enim eros elementum tristique.</p>
-                            <Link to='#' className="btn">Contact Us <i className="flaticon-right-arrow-3"></i></Link>
                         </div>
                     </div>
                     <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
@@ -30,7 +29,6 @@ const Features = () => {
                             </div>
                             <h3>Strategy & Research</h3>
                             <p>Lorem ipsum dolor sit amet, ectetur do pis cing elit. Susp endisse varius enim varius enim eros elementum tristique.</p>
-                            <Link to='#' className="btn">Contact Us <i className="flaticon-right-arrow-3"></i></Link>
                         </div>
                     </div>
                     <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600">
@@ -40,7 +38,6 @@ const Features = () => {
                             </div>
                             <h3>SEO & Marketing</h3>
                             <p>Lorem ipsum dolor sit amet, ectetur do pis cing elit. Susp endisse varius enim varius enim eros elementum tristique.</p>
-                            <Link to='#' className="btn">Contact Us <i className="flaticon-right-arrow-3"></i></Link>
                         </div>
                     </div>
                 </div>
