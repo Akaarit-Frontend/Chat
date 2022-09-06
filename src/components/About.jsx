@@ -20,8 +20,8 @@ const About = () => {
                                 <span>About Our Company</span>
                                 <h2>Honesty And Hard Work Are Our Beliefs</h2>
                                 <div className="agency-text">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit et fames maecen amet est scelerisque lectus tortor sit lorem ipsum dolor sit amet       adipiscing elit et fames lectus tortor sit.</p>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit et fames maecen amet est scelerisque lectus tortor sit lorem ipsum dolor sit amet .</p>
+                                    <p>In their employee handbooks, many companies have formal policies restricting gossip. Given the recent NLRB ruling, how can they be sure these policies aren’t “overly broad” so as to become unenforceable?</p>
+                                    <p>First, the policy should explicitly state that it’s not meant to limit employees’ right to talk about wages; rather, it is aimed at gossip about related issues, Hyman said.</p>
                                 </div>
                                 <a href="#services" className="agency-default-btn btn">Read More <i className="flaticon-right-arrow-3"></i></a>
                             </div>
