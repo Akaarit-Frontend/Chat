@@ -22,12 +22,7 @@ const SIgnIn = () => {
                                             <div className="row">
                                                 <div className="col-12">
                                                     <div className="form-group">
-                                                        <input type="text" className="form-control bg_input" placeholder="Email address"/>
-                                                    </div>
-                                                </div>
-                                                <div className="col-12">
-                                                    <div className="form-group">
-                                                        <input type="text" className="form-control bg_input" placeholder="Mobile number*"/>
+                                                        <input type="text" className="form-control bg_input" placeholder="Email/Phone"/>
                                                     </div>
                                                 </div>
                                                 <div className="col-12">
